@@ -17,35 +17,15 @@
   </p>
 
 ## 💡Detailed INFO:
-```finalProject.c -> The final project for the FOC course in Uni. It is notable that this file has to be run on linux, and some special files must be included.```
+``` Number Systems Calculator -> The number systems calculator converts numbers from system to system. The code is available both in C and Java. In Progress... ```
 ##
-```instructions.pdf -> Explains all the tasks performed in finalProject.c .```
+``` Symmetric Encryption -> It includes a code that encrypts messages symmetrically (Public Key Encryption). In Progress... ```
 ##
-```write_up.pdf -> Task 4 and 8 mentioned in instructions.pdf```
+``` RSA Encryption -> Includes a code that performs RSA Encryption using the modular inverse (Public & Private Key Encryption). In Progress... ```
 ##
-```randomArray.c -> Takes the array size as user input ---> takes an upper and lower number limit ---> fills the array randomly ---> prints the array ---> prints the positive numbers in the array.```
+``` Sequences -> In Progress... ```
 ##
-```hangman.c -> A funny hangman game I made earlier. Takes a name and tests letter by letter for the difference.```
+``` Hashing -> In Progress... ```
 ##
-```bloodTransfer.c -> Uses the strcmp function to test the validity of a bloodtransfer.```
+```Load Balancing -> In Progress... ```
 ##
-```numberApplications.c -> Performs multiple numerical functions. 1-Factorial of a number 2-Prime or not 3-Swap two numbers 4-Combination formula 5-Permutation formula.```
-##
-```rightTriangle.c -> Checks wether a triangle is right or not.```
-##
-```maxGrade -> Takes grades until the user exitsthen calculates the 1- Number of grades entered, 2- The average value for the grades, 3- The highest grade entered, 4- the sum of all grades entered.```
-##
-```multiplicationTable.c -> Prints the mulltiplication table from 1 to 9 for the entered number.```
-##
-```matrix.c -> Takes the temperatue for 4 days for both morning and nights and gets stored in a 2d array. then a bunch of transformation are applied on the array.```
-
-##
-```temperature. -> Takes temperature as Celsius then coverts it to Fahrenheit.```
-##
-```stopwatch.c -> Takes a time in seconds form and changes into the normal (Hours,Minutes,Seconds) form.```
-##
-```rectangleOrSquare.c -> Takes width and length then tests to find if the entered dimensions form a rectangle or a triangle.```
-##
-```triangleType.c -> Takes thee sides of the triangle then finds out what type of triangle if it is a triangle.```
-##
-
