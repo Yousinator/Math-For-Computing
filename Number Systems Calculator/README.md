@@ -2,6 +2,7 @@
   <a href="https://github.com/Yousinator/Math-For-Computing">
     <img src="https://github.com/ShaanCoding/ReadME-Generator/blob/main/images/logo.png" alt="Logo" width="80" height="80">
   </a>
+</p>
 ## Number Systems Calculator
 
 These are number system conversion algorithms for the following systems.
