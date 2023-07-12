@@ -1,6 +1,6 @@
-##Number Systems Calculator
+## Number Systems Calculator
 
-##Binary <--> Decimal
+## Binary <--> Decimal
 
 ``` Binary <--> Octal ```
 
