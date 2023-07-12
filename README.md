@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Yousinator/Math-For-Computing">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/ShaanCoding/ReadME-Generator/blob/main/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Math for Computing</h3>
