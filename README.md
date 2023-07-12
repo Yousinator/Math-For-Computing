@@ -20,7 +20,7 @@
 </p>
 <p align="center">
   <a href="">
-<img src="https://img.shields.io/github/downloads/Yousinator/Math-For-Computing/total"> <img src ="https://img.shields.io/github/contributors/Yousinator/Math-For-Computing?color=dark-green"> <img src ="https://img.shields.io/github/forks/Yousinator/Math-For-Computing?style=social"> <img src ="https://img.shields.io/github/stars/Yousinator/Math-For-Computing?style=social"> !<img src ="https://img.shields.io/github/license/Yousinator/Math-For-Computing">
+<img src="https://img.shields.io/github/downloads/Yousinator/Math-For-Computing/total"> <img src ="https://img.shields.io/github/contributors/Yousinator/Math-For-Computing?color=dark-green"> <img src ="https://img.shields.io/github/forks/Yousinator/Math-For-Computing?style=social"> <img src ="https://img.shields.io/github/stars/Yousinator/Math-For-Computing?style=social"> <img src ="https://img.shields.io/github/license/Yousinator/Math-For-Computing">
   </a>
 </p>
 
