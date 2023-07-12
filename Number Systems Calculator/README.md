@@ -3,7 +3,7 @@
     <img src="https://github.com/ShaanCoding/ReadME-Generator/blob/main/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 </p>
-## Number Systems Calculator
+<h3 align="center">Number Systems Conversions</h3>
 
 These are number system conversion algorithms for the following systems.
 
