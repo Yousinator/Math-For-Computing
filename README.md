@@ -18,9 +18,9 @@
     <a href="https://github.com/Yousinator/Math-For-Computing/issues">Request Feature</a>
   </p>
 </p>
-<div align ="center">
+<p align ="center">
 ![Downloads](https://img.shields.io/github/downloads/Yousinator/Math-For-Computing/total) ![Contributors](https://img.shields.io/github/contributors/Yousinator/Math-For-Computing?color=dark-green) ![Forks](https://img.shields.io/github/forks/Yousinator/Math-For-Computing?style=social) ![Stargazers](https://img.shields.io/github/stars/Yousinator/Math-For-Computing?style=social) ![License](https://img.shields.io/github/license/Yousinator/Math-For-Computing) 
-</div>
+</p>
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
