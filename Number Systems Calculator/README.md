@@ -1,3 +1,3 @@
-```sh
+```
 Number Systems Calculator
 ```
