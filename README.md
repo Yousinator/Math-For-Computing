@@ -18,8 +18,11 @@
     <a href="https://github.com/Yousinator/Math-For-Computing/issues">Request Feature</a>
   </p>
 </p>
-
+<p align="center">
+  <a href="">
 ![Downloads](https://img.shields.io/github/downloads/Yousinator/Math-For-Computing/total) ![Contributors](https://img.shields.io/github/contributors/Yousinator/Math-For-Computing?color=dark-green) ![Forks](https://img.shields.io/github/forks/Yousinator/Math-For-Computing?style=social) ![Stargazers](https://img.shields.io/github/stars/Yousinator/Math-For-Computing?style=social) ![License](https://img.shields.io/github/license/Yousinator/Math-For-Computing) 
+  </a>
+</p>
 
 ## Table Of Contents
 
@@ -68,6 +71,7 @@ These are Mathematical algorithms that are used in the programming field. All al
     <img src="https://img.shields.io/badge/Written%20in-Java-red.svg">
 
   </a>
+  </p>
 
 For this project, I used both C lang and Java. The C code is mainly for me as I like the language and I want to use it. As for Java, I used it to provide a GUI for each code.
 
