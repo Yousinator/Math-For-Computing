@@ -5,7 +5,19 @@
 </p>
 <h3 align="center">Number Systems Conversions</h3>
 
-These are number system conversion algorithms for the following systems.
+<p align="center">
+    These are number system conversion algorithms for the following systems.
+    <br/>
+    <br/>
+    <a href="">
+    <img src="https://img.shields.io/badge/Written%20with-VS%20Code-blue.svg">
+    <img src="https://img.shields.io/badge/Written in-C-blue.svg">
+    <img src="https://img.shields.io/badge/Written%20in-Java-red.svg">
+
+  </a>
+  </p>
+
+
 
 * [Binary <--> Decimal](Binary-<-->-Decimal)
 * [Binary <--> Octal](Binary-<-->-Octal)
