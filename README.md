@@ -61,17 +61,23 @@ These are Mathematical algorithms that are used in the programming field. All al
 
 ## Built With
 
-For this project, I used both C lang and Java. The C code is mainly for me as I like the language and I want to use it. As for Java, I used it to provide a GUI for each code.
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/Written%20with-VS%20Code-blue.svg">
+    <img src="https://img.shields.io/badge/Written in-C-blue.svg">
+    <img src="https://img.shields.io/badge/Written%20in-Java-red.svg">
 
-* [Java]()
+  </a>
+
+For this project, I used both C lang and Java. The C code is mainly for me as I like the language and I want to use it. As for Java, I used it to provide a GUI for each code.
 
 ## Getting Started
 
-Getting started with this is very simple. Just navigate to the section you'd like to check out and you'll find documentation for each algorithm.
+Getting started with this repository is very simple. You can just navigate to the section you'd like to check out and you'll find documentation for each algorithm in its specific file. Each topic will have a java joint GUI program.
 
 ### Prerequisites
 
-It is recommended to be familiar with the algorithms that you are checking out as algorithms won't be explained mathematically. Documentation will only include explanation from a programming perspective. 
+It is recommended to be familiar with the algorithms you are checking out as algorithms won't be explained mathematically. Documentation will only include an explanation from a programming perspective. 
 
 ### Installation
 
@@ -84,11 +90,11 @@ git clone https://github.com/your_username_/Project-Name.git
 
 ## Usage
 
-This repository can be used with certain projects that require certain mathematical algorithms. This repo has the algorithms written in both C lang and Java with universal documentation for each algorithm to be applied with all languages.
+This repository can be used with specific projects that require certain mathematical algorithms. This repo has the algorithms written in both C lang and Java with universal documentation for each algorithm to be applied with all languages.
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 * If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/Yousinator/Math-For-Computing/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
@@ -113,5 +119,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Yousinator/M
 ## Acknowledgements
 
 * [Yousinator](https://github.com/Yousinator)
-* []()
 * [ImgShields](https://shields.io/)
