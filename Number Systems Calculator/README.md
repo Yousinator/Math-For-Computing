@@ -5,13 +5,13 @@
 ## Number Systems Calculator
 These are number system conversion algorithms for the following systems.
 
-*[Binary <--> Decimal](Binary-<-->-Decimal)
-*[Binary <--> Octal](Binary-<-->-Octal)
-*[Binary <--> Hex](Binary-<-->-Hex)
-*[Hex <--> Decimal](Hex-<-->-Decimal)
-*[Hex <--> Octal](Hex-<-->-Octal)
-*[Octal <--> Decimal](Octal-<-->-Decimal)
-*[Number Systems Calculator](Number-Systems-Calculator)
+* [Binary <--> Decimal](Binary-<-->-Decimal)
+* [Binary <--> Octal](Binary-<-->-Octal)
+* [Binary <--> Hex](Binary-<-->-Hex)
+* [Hex <--> Decimal](Hex-<-->-Decimal)
+* [Hex <--> Octal](Hex-<-->-Octal)
+* [Octal <--> Decimal](Octal-<-->-Decimal)
+* [Number Systems Calculator](Number-Systems-Calculator)
 
 ## Binary <--> Decimal
 
