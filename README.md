@@ -61,7 +61,7 @@ These are Mathematical algorithms that are used in the programming field. All al
 
 ##
 
-`Hashing -> In Progress...`
+`Hashing -> Includes a code that performs MD5 Hashing & README file that explains the algorithm.`
 
 ##
 
@@ -132,4 +132,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Yousinator/M
 ## Acknowledgements
 
 - [Yousinator](https://github.com/Yousinator)
+- [smadi0x86](https://github.com/smadi0x86)
+- [RFC 1321](https://datatracker.ietf.org/doc/html/rfc1321)
+- [MD5-c](https://github.com/Zunawe/md5-c)
 - [ImgShields](https://shields.io/)
