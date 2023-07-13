@@ -3,7 +3,9 @@
 **\_Hashing Algorithms are used to convert an input of any length to an output of a fixed numeric length.\_**
 
 **_What is a message digest? A message digest is a fixed length value that is calculated from a message also known as a hash value._**
+
 **_The message digest is calculated using a hashing algorithm._**
+
 **_Arbitary mean that they can be of any length which is not good for security._**
 
 ```
