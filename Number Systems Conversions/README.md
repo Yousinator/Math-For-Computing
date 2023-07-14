@@ -47,7 +47,7 @@ Here, we discuss four common positional number systems: decimal, binary, octal, 
 
 ## Binary <--> Decimal
 
-### Binary to Decimal
+### Binary to Decimal <br>
 
 ### Decimal to Binary
 
