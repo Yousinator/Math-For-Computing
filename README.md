@@ -133,6 +133,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Yousinator/M
 
 - [Yousinator](https://github.com/Yousinator)
 - [smadi0x86](https://github.com/smadi0x86)
+- [Dr.Tareq Dalgamoni](#)
 - [RFC 1321](https://datatracker.ietf.org/doc/html/rfc1321)
 - [MD5-c](https://github.com/Zunawe/md5-c)
 - [ImgShields](https://shields.io/)
