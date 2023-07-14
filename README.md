@@ -127,7 +127,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Yousinator/M
 
 ## Authors
 
-- **Yousinator** - _AI Student_ - [Yousinator](https://github.com/Yousinator/) - _Wrote the codes and README_
+- **Yousinator** - _AI Student_ - [Yousinator](https://github.com/Yousinator/) - _Wrote the codes and README_\
+- **smadi0x86** - _Cyber Security Student_ - [smadi0x86](https://github.com/smadi0x86) - _Added Hashing_
 
 ## Acknowledgements
 

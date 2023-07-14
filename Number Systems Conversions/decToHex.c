@@ -39,18 +39,18 @@ int main()
     char hexadecimal[10000];
 
     printf("Please enter a decimal to be converted to Hexadecimal\n");
-    scanf("%d", &decimal);
+    scanf("%d", &decimal); //? 1 > We scan for the decimal that is to be converted.
     original = decimal;
-    for (firstCounter = 0; decimal > 0; firstCounter++)
+    for (firstCounter = 0; decimal > 0; firstCounter++) //? 2 > We start a loop to repeat the division until the remaining number is 0.
     {
         remainder = (decimal % 16);
-        if (remainder < 10)
+        if (remainder < 10) //? 3 > We take the remainder of dividing the number by 16 and then store it inside an array
         {
             hexadecimal[firstCounter] = '0' + remainder;
         }
         else
         {
-            if (remainder == 10)
+            if (remainder == 10) //? 5 > If a number is greater than 9 it is stored as a letter so we apply an (if-statement) before stroing in the array.
             {
                 hexadecimal[firstCounter] = 'A';
             }
@@ -76,10 +76,10 @@ int main()
             }
         }
 
-        decimal /= 16;
+        decimal /= 16; //? 4 > We continue to divide the number by 16 to complete the algorithm as mentioned above.
     }
     printf("The Binary for the decimal number [%i] is => ", original);
-    for (int secondCounter = firstCounter; secondCounter >= 0; secondCounter--)
+    for (int secondCounter = firstCounter; secondCounter >= 0; secondCounter--) //? 6 > we start a loop to print all the the numbers in the array from last to first.
     {
         printf("%c", hexadecimal[secondCounter]);
     }
