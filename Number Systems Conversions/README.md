@@ -22,6 +22,10 @@ These systems are classified according to the values of the base of the number s
 
 - [About Number Systems](About-Number-Systems)
 - [Binary <--> Decimal](Binary-<-->-Decimal)
+
+  - [Binary to Decimal](Binary-to-Decimal)
+  - [Decimal to Binary](Decimal-to-Binary)
+
 - [Binary <--> Octal](Binary-<-->-Octal)
 - [Binary <--> Hex](Binary-<-->-Hex)
 - [Hex <--> Decimal](Hex-<-->-Decimal)
@@ -42,6 +46,10 @@ Here, we discuss four common positional number systems: decimal, binary, octal, 
 - <span style="color:red"> **_The Hexadecimal Number System_**</span> :- The base of the hexadecimal system is 16. The hexadecimal number system has 16 alphanumeric symbols: from <span style="color:green">0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F</span>. Here A is 10, B is 11, C is 12, D is 13, E is 14 and F is 15.
 
 ## Binary <--> Decimal
+
+### Binary to Decimal
+
+### Decimal to Binary
 
 ## Binary <--> Octal
 
