@@ -47,9 +47,47 @@ Here, we discuss four common positional number systems: decimal, binary, octal, 
 
 ## Binary <--> Decimal
 
-### Binary to Decimal <br>
+- <span style="color:red">**_The Binary Number System_**</span> :- The base of the binary system is 2 and it is composed of 2 numerals or symbols; 1 & 2.
+- <span style="color:red"> **_The Decimal Number System_**</span> :- The base of the decimal system is 10 and it is composed of 10 numerals or symbols; 0 - 9.
+
+### Binary to Decimal
+
+| **_(1)_** | Determine the positional value of each binary digit (i.e., the associated weight of the digit).    |
+| --------- | -------------------------------------------------------------------------------------------------- |
+| **_(2)_** | Multiply each binary digit by its weight (Ex: 1 \* 2^2).                                           |
+| **_(3)_** | Sum the products calculated in Step 2. The total is the value of the number in the decimal system. |
+
+<br>
+
+<img src="../images/binToDec.png">
+<br>
+
+Image by [Dr.Tareq Dalgamoni](../README.md/#acknowledgements)
 
 ### Decimal to Binary
+
+#### Converting a Decimal Number to another System (Integers)
+
+| **_(1)_** | Divide the decimal integer to be converted by the new base (2) for binary.                  |
+| --------- | ------------------------------------------------------------------------------------------- |
+| **_(2)_** | The remainder from Step 1 will be the least significant digit in the new-base number.       |
+| **_(3)_** | Divide the quotient from Step 2 by the new base. This will be the next digit (to the left). |
+| **_(4)_** | Repeat Steps 1 - 3 until the quotient of the division is zero.                              |
+
+#### Converting a Decimal Number to another System (A Fraction between 0 and 1)
+
+| **_(1)_** | Multiply the decimal fraction to be converted by the new base (2) for binary.                       |
+| --------- | --------------------------------------------------------------------------------------------------- |
+| **_(2)_** | The integer part from Step 1 is the most significant digit in the new-base number                   |
+| **_(3)_** | Multiply the fraction part from Step 2 by the new base. This will be the next digit (to the right). |
+| **_(4)_** | Repeat Steps 1 - 3 until the fraction becomes zero.                                                 |
+
+<br>
+
+<img src="../images/decToBin.png" width="650rem">
+<br>
+
+Image by [Dr.Tareq Dalgamoni](../README.md/#acknowledgements)
 
 ## Binary <--> Octal
 
