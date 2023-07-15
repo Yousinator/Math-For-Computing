@@ -20,18 +20,18 @@ These systems are classified according to the values of the base of the number s
 
 ## Table Of Contents
 
-- [About Number Systems](About-Number-Systems)
-- [Binary <--> Decimal](Binary-<-->-Decimal)
+- [About Number Systems](#about-number-systems)
+- [Binary <--> Decimal](#binary----decimal)
 
-  - [Binary to Decimal](Binary-to-Decimal)
-  - [Decimal to Binary](Decimal-to-Binary)
+  - [Binary to Decimal](#binary-to-decimal)
+  - [Decimal to Binary](#decimal-to-binary)
 
-- [Binary <--> Octal](Binary-<-->-Octal)
-- [Binary <--> Hex](Binary-<-->-Hex)
-- [Hex <--> Decimal](Hex-<-->-Decimal)
-- [Hex <--> Octal](Hex-<-->-Octal)
-- [Octal <--> Decimal](Octal-<-->-Decimal)
-- [Number Systems Calculator](Number-Systems-Calculator)
+- [Binary <--> Octal](#binary----octal)
+- [Binary <--> Hex](#binary----hex)
+- [Hex <--> Decimal](#hex----decimal)
+- [Hex <--> Octal](#hex----octal)
+- [Octal <--> Decimal](#octal----decimal)
+- [Number Systems Calculator](#number-systems-calculator)
 
 ## About Number Systems
 
