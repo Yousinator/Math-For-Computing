@@ -4,6 +4,8 @@
     ! This file is an implementation for decimal to Hexadecimal algorthim.
     * It only works for integers.
     ! It is recommended to use "Better Comments" extension when reading this.
+    ! It is recommended to view the (Number Systems Conversions/README.md) "Decimal to Hex" subsection first.
+
 
 */
 
@@ -13,6 +15,8 @@
     ! 1 > To convert from decimal to Hexadecimal the original number has to be divided by 16.
     ! 2 > The remainder of the division is taken (0 - 16). => the remainder for (55/16) is 7 and 3 remains.
     ! 3 > Now the remaining number(s) (3) are divided by 16 to repeat the process until the remaining number is 0.
+    * View the (Number Systems Conversions/README.md) "Decimal to Hex" subsection for further explanation.
+
 
 */
 

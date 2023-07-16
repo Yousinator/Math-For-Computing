@@ -4,6 +4,7 @@
     ! This file is an implementation for decimal to binary algorthim.
     * It only works for integers.
     ! It is recommended to use "Better Comments" extension when reading this.
+    ! It is recommended to view the (Number Systems Conversions/README.md) "Decimal to Binary" subsection first.
 
 */
 
@@ -13,6 +14,7 @@
     ! 1 > To convert from decimal to binary the original number has to be divided by 2.
     ! 2 > The remainder of the division is taken (It's either 0 or 1). => the remainder for (55/2) is 1 and 27 remains.
     ! 3 > Now the remaining number(s) (27) are divided by 2 to repeat the process until the remaining number is 0.
+    * View the (Number Systems Conversions/README.md) "Decimal to Binary" subsection for further explanation.
 
 */
 
@@ -28,7 +30,7 @@
 
 */
 
-// ======================================================== The Code ======================================================== //
+//! ======================================================== The Code ======================================================== !//
 
 #include <stdio.h>
 
