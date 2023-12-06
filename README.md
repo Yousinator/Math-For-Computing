@@ -101,7 +101,7 @@ If you are not familiar with Java make sure to check out Java0x01 written by sma
 1. Clone the repo
 
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/yousinator/math-for-computing.git
 ```
 
 2. Viola that's it!!
