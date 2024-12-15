@@ -1,3 +1,6 @@
+> [!Warning]
+> Repo archived as it isn't maintained anymore with no plans to proceed with development further, if your are interested in the project make sure to contact me anytime.
+
 <br/>
 <p align="center">
   <a href="https://github.com/Yousinator/Math-For-Computing">
