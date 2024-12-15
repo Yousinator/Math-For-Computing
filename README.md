@@ -1,5 +1,4 @@
-> [!Warning]
-> Repo archived as it isn't maintained anymore with no plans to proceed with development further, if your are interested in the project make sure to contact me anytime.
+
 
 <br/>
 <p align="center">
@@ -41,6 +40,8 @@
 - [Acknowledgements](#acknowledgements)
 
 ## About The Project
+> [!Warning]
+> Repo archived as it isn't maintained anymore with no plans to proceed with development further, if your are interested in the project make sure to contact me anytime.
 
 ![Screen Shot](https://d2r55xnwy6nx47.cloudfront.net/uploads/2019/04/Multiplication_1920x1080_Lede.gif)
 
